@@ -1,0 +1,14 @@
+# *은 모두
+*.psd
+# /는 폴더
+/origin 
+plan.pdf
+plan_*.pdf
+# 이미지폴더 올리지 말것
+img/
+*.asf
+*.hwp
+# 밑 폴더자체
+svg/
+
+
